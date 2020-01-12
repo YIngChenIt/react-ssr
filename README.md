@@ -5,4 +5,4 @@
 
 `npm run dev`
 
-`node`
+`node ./api/server.js`
